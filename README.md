@@ -1,7 +1,12 @@
 ### Hi there 👋
 
-🔭 I’m currently working on DATA and AI
-
+- 🔭 I'm currently undergoing training in data science and artificial intelligence.
+- 🌱 I'm currently learning about various machine learning algorithms and techniques, as well as data preprocessing and feature engineering methods.
+- 👯 I’m looking to collaborate on projects related to machine learning, natural language processing, and computer vision.
+- 🤔 I’m looking for help with enhancing my skills in database management, particularly in SQL and MariaDB, as well as support with implementing advanced machine learning algorithms in practical projects..
+- 💬 Ask me about my experience with machine learning projects, my interests in data analysis techniques, or my goals in pursuing a career in artificial intelligence.
+- 📫 How to reach me: https://www.linkedin.com/in/beno%C3%AEt-david-56b5b9272/ or benoit.x.david@gmail.com
+- ⚡ Fun fact: Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible!
 <!--
 **Benoit-DAVID-33/Benoit-DAVID-33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
