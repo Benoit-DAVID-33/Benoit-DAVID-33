@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there ! 👋
 
 - 🔭 I'm currently undergoing training in data science and artificial intelligence.
 - 🌱 I'm currently learning about various machine learning algorithms and techniques, as well as data preprocessing and feature engineering methods.
